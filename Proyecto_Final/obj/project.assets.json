@@ -10509,24 +10509,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jazzi\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Stephanie\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jazzi\\source\\repos\\Proyecto_Final\\Proyecto_Final\\Proyecto_Final.csproj",
+      "projectUniqueName": "C:\\Users\\Stephanie\\source\\repos\\Proyecto_Final1\\Proyecto_Final\\Proyecto_Final.csproj",
       "projectName": "Proyecto_Final",
-      "projectPath": "C:\\Users\\Jazzi\\source\\repos\\Proyecto_Final\\Proyecto_Final\\Proyecto_Final.csproj",
-      "packagesPath": "C:\\Users\\Jazzi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jazzi\\source\\repos\\Proyecto_Final\\Proyecto_Final\\obj\\",
+      "projectPath": "C:\\Users\\Stephanie\\source\\repos\\Proyecto_Final1\\Proyecto_Final\\Proyecto_Final.csproj",
+      "packagesPath": "C:\\Users\\Stephanie\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Stephanie\\source\\repos\\Proyecto_Final1\\Proyecto_Final\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Jazzi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Stephanie\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
